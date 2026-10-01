@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+Node.js+%E2%9A%99%EF%B8%8F;Exploring+APIs%2C+databases+%26+software+engineering+%F0%9F%9A%80;Bridging+Chemical+Engineering+and+Technology+%E2%9A%97%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
+
 <h2>👨‍💻 About Me</h2>
 
 <p>
@@ -26,6 +27,7 @@ and building useful software.
   <li>👨‍🏫 I tutor science subjects and enjoy simplifying difficult concepts</li>
   <li>⚗️ Interested in the intersection of <b>Engineering & Technology</b></li>
 </ul>
+
 
 <h2>🛠️ Languages & Tools</h2>
 
@@ -98,4 +100,11 @@ and building useful software.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koladex2009-ops&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
+</p>
+
+
+<br>
+
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
 </p>
