@@ -23,7 +23,7 @@ and building useful software.
   <li>💻 Building backend applications with <b>Node.js, Express.js & MongoDB</b></li>
   <li>🌱 Currently expanding my knowledge of <b>APIs, databases & software engineering</b></li>
   <li>🛠️ I enjoy turning ideas and real-world problems into working systems</li>
-  <li>👨‍🏫 I tutor <b>Mathematics & Physics</b> and enjoy simplifying difficult concepts</li>
+  <li>👨‍🏫 I tutor science subjects and enjoy simplifying difficult concepts</li>
   <li>⚗️ Interested in the intersection of <b>Engineering & Technology</b></li>
 </ul>
 
@@ -64,3 +64,35 @@ and building useful software.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=koladex2009-ops&repo=Student-Challenge-Ghost-Student-Incident&theme=github_dark" />
   </a>
 </p>
+
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=koladex2009-ops&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Kolade's GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koladex2009-ops&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Kolade's most used languages"
+  />
+</p>
+
+
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/obaniyi-kolade-64aa80337/">
+    <img src="https://img.shields.io/badge/LinkedIn-Obaniyi%20Kolade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:obaniyikolade10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
