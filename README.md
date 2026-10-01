@@ -46,3 +46,21 @@ and building useful software.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
+
+
+<h2>🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/koladex2009-ops/eventhorizon-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koladex2009-ops&repo=eventhorizon-api&theme=github_dark" />
+  </a>
+  <a href="https://github.com/koladex2009-ops/bookstore-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koladex2009-ops&repo=bookstore-api&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/koladex2009-ops/Student-Challenge-Ghost-Student-Incident">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koladex2009-ops&repo=Student-Challenge-Ghost-Student-Incident&theme=github_dark" />
+  </a>
+</p>
